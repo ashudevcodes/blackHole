@@ -1,9 +1,16 @@
+/*
+ * Black Hole Simulation - Raylib Implementation
+ * Copyright (c) 2025 Ashish Prasad <ashishprasad949@gmail.com>
+ *
+ * This software is licensed under the MIT License.
+ * See the LICENSE file for details.
+ */
+
 #include "raylib.h"
 #include "raymath.h"
 #include "rlgl.h"
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
 
 #define SCREEN_WIDTH 1024
 #define SCREEN_HEIGHT 768
