@@ -1,3 +1,5 @@
 # Black Hole Simulation - Raylib Implementation
-https://github.com/user-attachments/assets/8b1868ed-4393-4731-aba7-1d8925beff25
+
+<kbd>Demo Video 👇 </kbd>
+[<img src="./assets/blackHoleSS.png"/>](https://youtu.be/f_R1a95zoSA?si=1AN8Vw-eJLyJOAnE)
 
