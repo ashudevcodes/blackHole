@@ -1,4 +1,3 @@
-# Makefile for blackhole (adjust RAYLIB_DIR if necessary)
 RAYLIB_DIR ?= raylib/src
 CC = gcc
 CFLAGS = -O2 -Wall -I$(RAYLIB_DIR)
