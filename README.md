@@ -1,4 +1,5 @@
 # Black Hole
+https://github.com/user-attachments/assets/8b1868ed-4393-4731-aba7-1d8925beff25
 
-https://github.com/user-attachments/assets/cf736677-928a-4d4b-ae35-f4b08527d380
-
+## TODO
+- Add equation on readme
